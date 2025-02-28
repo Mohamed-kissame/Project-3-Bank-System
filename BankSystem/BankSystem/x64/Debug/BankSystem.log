@@ -1,0 +1,7 @@
+﻿  BankSystem.cpp
+C:\Users\mkiss\OneDrive\Bureau\Project Bank\BankSystem\BankSystem.cpp(76,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mkiss\OneDrive\Bureau\Project Bank\BankSystem\BankSystem.cpp(597,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\mkiss\OneDrive\Bureau\Project Bank\BankSystem\BankSystem.cpp(510,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\mkiss\OneDrive\Bureau\Project Bank\BankSystem\BankSystem.cpp(1348,1): warning C4715: 'DeleteUserByAccountName': not all control paths return a value
+C:\Users\mkiss\OneDrive\Bureau\Project Bank\BankSystem\BankSystem.cpp(1413,1): warning C4715: 'UpdateUserByUserName': not all control paths return a value
+  BankSystem.vcxproj -> C:\Users\mkiss\OneDrive\Bureau\Project Bank\BankSystem\x64\Debug\BankSystem.exe
