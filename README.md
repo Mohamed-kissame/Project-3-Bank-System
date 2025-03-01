@@ -72,7 +72,7 @@ Run the executable:
 
 <h1>📂 File Structure</h1>
 
-📦 BankSystem
+📦 BankSystem<hr>
  ┣ 📜 BankSystem.cpp          # Main program logic
  
  ┣ 📜 BankSystem.sln          # Solution file
@@ -89,7 +89,7 @@ Run the executable:
  
  ┣ 📜 README.md               # Documentation (this file)
 
-🏆 Key Learnings & Skills Applied
+🏆 Key Learnings & Skills Applied<hr>
 
 ✅ C++ Programming & File Handling
 
