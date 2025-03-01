@@ -74,19 +74,29 @@ Run the executable:
 
 📦 BankSystem
  ┣ 📜 BankSystem.cpp          # Main program logic
+ 
  ┣ 📜 BankSystem.sln          # Solution file
+ 
  ┣ 📜 BankSystem.vcxproj      # Visual Studio project file
+ 
  ┣ 📜 BankSystem.vcxproj.filters  # VS filters file
+ 
  ┣ 📜 BankSystem.vcxproj.user # VS user settings file
+ 
  ┣ 📜 Client.txt              # Storage for client data
+ 
  ┣ 📜 User.txt                # Storage for user data
+ 
  ┣ 📜 README.md               # Documentation (this file)
 
 🏆 Key Learnings & Skills Applied
 
 ✅ C++ Programming & File Handling
+
 ✅ Functional Programming Concepts
+
 ✅ Secure User Authentication & Role-Based Access Control
+
 ✅ Modular & Scalable Software Development
 
 <h1>🔗 GitHub Repository</h1>
