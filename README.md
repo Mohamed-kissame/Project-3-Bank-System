@@ -56,7 +56,7 @@ Modular design for scalability
 
 Clone the repository:
 
-git clone https://bit.ly/41xySyl
+git clone https://github.com/Mohamed-kissame/Project-3-Bank-System.git
 
 Navigate to the project folder:
 
